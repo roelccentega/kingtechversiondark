@@ -19,3 +19,6 @@
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteRule ^ index.php [L]
 </IfModule>
+
+RedirectMatch 301 /tinbet https://kingtech.pe/
+RedirectMatch 301 /betgana https://kingtech.pe/
