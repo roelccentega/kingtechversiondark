@@ -89,7 +89,7 @@
 							</div>
 						</div>
 							
-						<blockquote>	<p>	En conclusión, las Franquicias de Casa de Apuestas Deportivas y Casino Online  representan una oportunidad única para inversores corporativos B2B que buscan innovación, rentabilidad y participación activa. Su capacidad para combinar la emoción del juego con un modelo de negocio sólido las posiciona como líderes en el mercado actual. La diversidad, la tecnología y el compromiso con la rentabilidad hacen de estas franquicias una opción atractiva en el panorama empresarial actual.</p></blockquote>
+						<!--<blockquote>	<p>	En conclusión, las Franquicias de Casa de Apuestas Deportivas y Casino Online  representan una oportunidad única para inversores corporativos B2B que buscan innovación, rentabilidad y participación activa. Su capacidad para combinar la emoción del juego con un modelo de negocio sólido las posiciona como líderes en el mercado actual. La diversidad, la tecnología y el compromiso con la rentabilidad hacen de estas franquicias una opción atractiva en el panorama empresarial actual.</p></blockquote>-->
 
 						
 					</div>
