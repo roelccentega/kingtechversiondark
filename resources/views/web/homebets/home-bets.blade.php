@@ -41,7 +41,7 @@
 				<div class="col-lg-6 wow animate fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
 					<div class="about-left-img-wrap">
 						<div class="big-img magnetic-item">
-							<img class="img-fluid" src="{{asset('/assets/kngtech-3.png')}}" alt>
+							<img class="img-fluid" src="{{asset('/assets/localpropio.png')}}" alt>
 						</div>
 					
 					</div>

@@ -3377,7 +3377,7 @@ video {
 .home4-about-section .about-left-img-wrap .big-img::after {
     content: "";
     background: linear-gradient(180deg, rgba(34, 38, 42, 0.6) 0%, rgba(34, 38, 42, 0.1) 100%);
-    border-radius: 190px;
+    border-radius: 0px;
     position: absolute;
     left: 0;
     top: 0;
@@ -3385,7 +3385,7 @@ video {
     height: 100%
 }
 .home4-about-section .about-left-img-wrap .big-img img {
-    border-radius: 190px
+    border-radius: 0px
 }
 .home4-about-section .about-left-img-wrap .sm-img {
     width: 148px;
