@@ -43,6 +43,9 @@
                         <span >{{ session('notification') }}</span>
                     </div>
                 @endif
+
+				
+
 	<div class="contact-page-wrap sec-mar">
 		<div class="container">
 			<div class="row g-lg-4 gy-5">
@@ -101,7 +104,7 @@
 							<h5>Realiza una Asesoría Gratuita</h5>
 						</div>
 						<div class="contact-form">
-							   <form action="{{url('/contacto')}}" method="post">
+							   <form action="{{url('/contacto')}}" method="post" enctype='multipart/form-data'>
 								           {{ csrf_field() }}
                                     <input type="hidden" name="url" value="{{ request()->fullUrl() }}">
 								<div class="row">
@@ -137,6 +140,15 @@
 											<textarea name="content" required></textarea>
 										</div>
 									</div>
+									<!--<div class="col-lg-12 mb-20">
+										<div class="form-inner">
+											<label>Imagen</label>
+											<input type="file" name="archivo" required>
+										</div>
+									</div>-->
+								
+								
+									</div>
 									<div class="col-lg-12">
 										<div class="form-inner">
 											<button class="primary-btn3" type="submit">Enviar</button>
@@ -150,6 +162,7 @@
 			</div>
 		</div>
 	</div>
+
 	<div class="contact-map">
 	<!-- 	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3649.564763185785!2d90.36311167608078!3d23.834071185557615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c14c8682a473%3A0xa6c74743d52adb88!2sEgens%20Lab!5e0!3m2!1sen!2sbd!4v1685535738307!5m2!1sen!2sbd" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
 

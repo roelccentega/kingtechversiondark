@@ -43,6 +43,17 @@ class InicioController extends Controller
 //            'g-recaptcha-response' => 'required|captcha',
 
         ]);
+
+        $message=[
+            'name' => $request->name,
+            'email' => $request->email,
+            'phone' => $request->phone,
+            'subject' => $request->subject,
+            'content' => $request->content,
+            'archivo' => $request->file('archivo'),
+
+        ];
+
         $emails = [ 'ccenteproga@gmail.com', 'webmaster@kingtech.pe', 'contacto@kingtech.pe'];
         $mail = new ContactanosForm($request->all());
         Mail::to($emails)->send($mail);

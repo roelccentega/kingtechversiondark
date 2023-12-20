@@ -32,6 +32,9 @@ class ContactanosForm extends Mailable
         return $this
 //            ->subject($this->data['subject'])
             ->replyTo($this->data['email'])
-            ->view('emails.form-contact.contact');
+            ->view('emails.form-contact.contact')
+            ->attach($this->data['archivo']->getRealPath(),[
+                'as'=>$this->data['archivo']->getClientOriginalName()
+            ]);
     }
 }
