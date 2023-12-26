@@ -45,3 +45,4 @@ Route::get('/eventos/expo-amazonica-tingo-maria-2023', 'EventsController@exporFe
 //Articulos
 Route::get('/blog','ArticlesController@index');
 Route::get('/blog/franquicias-de-casa-de-apuestas-deportivas-y-casino-online','ArticlesController@franquicias');
+Route::get('/blog/desata-el-potencial-de-tu-casa-de-apuestas-con-estrategias-de-merchandising-este-2024','ArticlesController@merch');

@@ -14,5 +14,10 @@ class ArticlesController extends Controller
     {
         return view('web.articles.franquicias-de-casa-de-apuestas-deportivas-y-casino-online');
     }
+    public function merch()
+    {
+        return view('web.articles.desata-el-potencial-de-tu-casa-de-apuestas-con-estrategias-de-merchandising-este-2024');
+    }
+
     // Franquicias de Casa de Apuestas Deportivas y Casino Online
 }

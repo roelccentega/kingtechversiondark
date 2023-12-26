@@ -68,6 +68,42 @@
 						</div>
 					</div>
 				</div>
+				<div class="col-lg-5 col-md-6 wow animate fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
+					<div class="single-blog magnetic-item">
+						<div class="blog-img">
+								<img class="img-fluid" src="{{asset('assets/articles/ico-articulo2.png')}}" alt>
+							<div class="blog-tag">
+								<a href="blog.html">Merchandising </a>
+							</div>
+						</div>
+						<div class="blog-content">
+							<ul class="blog-meta">
+								<li><a href="{{url('/blog')}}">Diciembre 06, 2023</a></li>
+								<!-- <li><a href="blog.html">Comment (3)</a></li> -->
+							</ul>
+							<h4><a href="{{url('/blog/desata-el-potencial-de-tu-casa-de-apuestas-con-estrategias-de-merchandising-este-2024')}}"> Activaciones y Merchandising para desatar el potencial de tu negocio de casa de apuestas deportivas este 2024 </a></h4>
+							<div class="blog-footer">
+								<div class="read-btn">
+									<a href="{{url('/blog/desata-el-potencial-de-tu-casa-de-apuestas-con-estrategias-de-merchandising-este-2024')}}">Ver más
+										<svg width="12" height="12" viewbox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+											<path d="M0 1H12M12 1V13M12 1L0.5 12"></path>
+										</svg>
+									</a>
+								</div>
+								<div class="social-area">
+									<ul>
+										<li><a href="https://www.facebook.com/"><i class="bx bxl-facebook"></i></a></li>
+										<li><a href="https://twitter.com/"><i class="bx bxl-twitter"></i></a></li>
+										<li><a href="https://www.pinterest.com/"><i class="bx bxl-pinterest-alt"></i></a></li>
+										<li><a href="https://www.instagram.com/"><i class="bx bxl-instagram"></i></a></li>
+									</ul>
+									<span><img src="assets/img/home-3/plain-icon.svg" alt></span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				
 				
 			</div>
 			<div class="row">
@@ -77,8 +113,7 @@
 							<a class="page-link"><i class="bi bi-arrow-left"></i></a>
 						</li>
 						<li class="page-item"><a class="page-link " inhabilited href="#">1</a></li>
-						<li class="page-item"><a class="page-link" href="#">2</a></li>
-						<li class="page-item"><a class="page-link" href="#">3</a></li>
+
 						<li class="page-item">
 							<a class="page-link" href="#"><i class="bi bi-arrow-right"></i></a>
 						</li>
