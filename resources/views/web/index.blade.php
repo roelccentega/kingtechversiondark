@@ -125,7 +125,7 @@
 				<li>
 					<div class="single-counter">
 						<div class="content">
-							<img src="assets/home/tinbet-logoa.png" width="200px">
+							<img src="assets/whitelogo.png" width="170px">
 						</div>
 					</div>
 				</li>
@@ -308,7 +308,7 @@
 													</defs>
 												</svg>
 												<svg width="60" height="60" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
-													<img src="{{asset('assets/home/tinbet-logo1.png')}}" width="80px">
+													<img src="{{asset('assets/whitelogo.png')}}" width="80px">
 												</svg>
 											</div>
 										</div>

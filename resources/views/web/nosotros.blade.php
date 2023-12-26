@@ -199,7 +199,7 @@
 								<div class="col-lg-4 col-sm-6 d-flex justify-content-center wow animate fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
 									<div class="single-counter">
 										<div class="icon">
-											<img src="{{asset('assets/home/tinbet-logo1.png')}}" width="200px">
+											<img src="{{asset('assets/whitelogo.png')}}" width="170px">
 										</div>
 										<div class="content">
 											<div class="number">

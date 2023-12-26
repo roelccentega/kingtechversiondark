@@ -77,7 +77,7 @@
 									<i class="far fa-envelope"></i>
 								</div>
 								<div class="info">
-									<a href="#"><span class="__cf_email__">info@kingtech.pe	</span></a>
+									<a href="#"><span class="__cf_email__">contacto@kingtech.pe	</span></a>
 				
 								</div>
 							</div>
